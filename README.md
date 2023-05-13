@@ -9,6 +9,10 @@ Laboratory of Mathematical Methods of Image Processing tasks in 2022/23 academic
 
 * Task 3: edge and ridge detection
 
+* VarMethods:
+    * task 1: deconvolution
+    * task 2: active contours
+    
 A detailed description of the task can be found in the corresponding directories.
 
 
