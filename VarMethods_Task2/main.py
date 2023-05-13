@@ -127,6 +127,6 @@ if __name__ == "__main__":
     result_snake = contour_segmentation(image, init_contour, args.alpha, args.beta, args.tau, args.w_line, args.w_edge, kappa=args.kappa, n_iter=600, convergence=0.2)
     utils.save_mask(args.output_path, result_snake, image)
     #for testing
-    true_mask = cv2.imread('./task2_testdata/astranaut_mask.png', cv2.IMREAD_GRAYSCALE)
-    pred_mask = cv2.imread(args.output_path, cv2.IMREAD_GRAYSCALE)
-    print(f'IoU: {utils.iou(true_mask, pred_mask)}')
+    #true_mask = cv2.imread('./task2_testdata/astranaut_mask.png', cv2.IMREAD_GRAYSCALE)
+    #pred_mask = cv2.imread(args.output_path, cv2.IMREAD_GRAYSCALE)
+    #print(f'IoU: {utils.iou(true_mask, pred_mask)}')
