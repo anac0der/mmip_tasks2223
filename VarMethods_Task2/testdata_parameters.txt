@@ -1,0 +1,6 @@
+python3 main.py ./task2_testdata/astranaut.png ./task2_testdata/astranaut_init_snake.txt result_astranaut.png 2.0 0.7 0.15 2 2 0.085
+python3 main.py ./task2_testdata/coffee.png ./task2_testdata/coffee_init_snake.txt result_coffee.png 2.0 1 0.8 0 2 0.025
+python3 main.py ./task2_testdata/coins.png ./task2_testdata/coins_init_snake.txt result_coins.png 2.0 1.0 0.1 0.1 2 0.085
+python3 main.py ./task2_testdata/microarray.png ./task2_testdata/microarray_init_snake.txt result_microarray.png 2.0 1.0 0.1 0.1 2 -0.085
+python3 main.py ./task2_testdata/nucleus.png ./task2_testdata/nucleus_init_snake.txt result_nucleus.png 2 0 1 0 2 0.4
+
