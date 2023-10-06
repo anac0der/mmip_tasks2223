@@ -1,5 +1,5 @@
 # MMIP tasks
-Laboratory of Mathematical Methods of Image Processing tasks in 2022/23 academic year.
+This repository contains an implementations of some image processing algorithms. 
 
 **Task topics:**
 
